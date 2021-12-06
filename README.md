@@ -14,4 +14,4 @@ We were given a dataset consisting of calls to the 311 phone number for non emer
 
 The first requirement was to find the top 10 causes of calls to 311 in the selected zip code. The second requirement was to compare two ratios. The ratio to find was the calls due to Illegal Parking to the all the calls made. This comparison was for the local and global value of the ratio.
 
-
+We fulfilled the requirements by using jupyter notebook and Pandas. 
