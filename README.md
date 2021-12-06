@@ -1,3 +1,6 @@
 # TFA-Project
  
-"This project is a part of IEOR4501_003_2021_3."
+IEOR4501_002_2021_3 / Tools for Analytics / Group Project
+
+Project Group: 1
+Lecture Section: 2
